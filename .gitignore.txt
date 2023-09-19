@@ -1,0 +1,10 @@
+# Exclude Terraform executable
+terraform
+
+
+# Exclude backup files
+*.bak
+
+# Exclude a directory named "large_files"
+large_files/
+.terraform
